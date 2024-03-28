@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header.div{
+    position:absolute;
+    display: inline-block;
+}
+.img {
+    background-color: black;
+}
